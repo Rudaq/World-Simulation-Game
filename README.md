@@ -6,3 +6,7 @@ than a single organism at a time (in case of a collision, one of the organisms i
 
 During each turn, every living organism in the world perform an action appropriate to their kind. Animals move, while others remain static (plants). There is also a human who is controlled by the player, his movement depends on what arrow key is pressed. New organisms can be created by clicking empty cell and choosing one specie from the list.<br />
 
+
+<p align="center">
+  <img src="https://github.com/Rudaq/World-Simulation-Game/blob/main/worldsim.png?raw=true" width="350" title="hover text">
+</p>
