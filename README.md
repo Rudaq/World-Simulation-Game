@@ -8,5 +8,5 @@ During each turn, every living organism in the world perform an action appropria
 
 
 <p align="center">
-  <img src="https://github.com/Rudaq/World-Simulation-Game/blob/main/worldsim.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/Rudaq/World-Simulation-Game/blob/main/worldsim.png?raw=true" width="500" title="hover text">
 </p>
